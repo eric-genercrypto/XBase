@@ -1,0 +1,10 @@
+D:\VSCode\XBase\bin\Debug\netcoreapp2.0\XBase.deps.json
+D:\VSCode\XBase\bin\Debug\netcoreapp2.0\XBase.runtimeconfig.json
+D:\VSCode\XBase\bin\Debug\netcoreapp2.0\XBase.runtimeconfig.dev.json
+D:\VSCode\XBase\bin\Debug\netcoreapp2.0\XBase.dll
+D:\VSCode\XBase\bin\Debug\netcoreapp2.0\XBase.pdb
+D:\VSCode\XBase\obj\Debug\netcoreapp2.0\XBase.csproj.CoreCompileInputs.cache
+D:\VSCode\XBase\obj\Debug\netcoreapp2.0\XBase.AssemblyInfoInputs.cache
+D:\VSCode\XBase\obj\Debug\netcoreapp2.0\XBase.AssemblyInfo.cs
+D:\VSCode\XBase\obj\Debug\netcoreapp2.0\XBase.dll
+D:\VSCode\XBase\obj\Debug\netcoreapp2.0\XBase.pdb
